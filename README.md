@@ -2,7 +2,7 @@
 ----
 
 ### 👨‍💻 &nbsp; Quem sou eu ?
-Sou estudante de Análise e Desenvolvimento de Sistemas da Unisinos e apaixonado por tecnologias que manipulam dados.
+Sou estudante de Análise e Desenvolvimento de Sistemas da Unisinos e apaixonado por tecnologias focadas na sociedade e suas economias.
 
 - 🔭 Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas (2025).
 - 🌱 Estou aprendendo: Java, JSP, SQL, MySQL
