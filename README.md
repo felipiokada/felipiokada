@@ -26,7 +26,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas da Unisinos e apaixonado
 
 </div>
 
-- 📫 Contado: **felipiokada@gmail.com**
+- 📫 Contato: **felipiokada@gmail.com**
 
 
 <!--
