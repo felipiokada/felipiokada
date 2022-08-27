@@ -15,7 +15,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas da Unisinos e apaixonado
 ### :chart_with_upwards_trend: Estatísticas:
 <div align="center">
   <a href="https://github.com/felipiokada">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipiokada&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipiokada&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ### :briefcase: Redes sociais:
