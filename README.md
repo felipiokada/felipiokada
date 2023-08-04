@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas da Unisinos e apaixonado
 
 - 🔭 Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas (2025).
 - 🌱 Estou aprendendo: Java, JSP, SQL, MySQL
-- 📚 Quero aprender em 2022: Spring, Spring Boot, API Rest, Maven, JPA, JBDC, Firebase, Python, MongoDB.
+- 📚 Quero aprender em 2023: Spring, Spring Boot, API Rest, Maven, JPA, JBDC, Firebase, Python, MongoDB, AWS.
 
 ### :computer: Back-end
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
